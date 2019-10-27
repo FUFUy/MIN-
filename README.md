@@ -10,7 +10,7 @@
 
 
 
-## MIN的书报摊
+## [MIN的书报摊](https://github.com/FUFUy/MIN-s-stand/blob/master/README.md)
 - 杂志
 - 课本
 
