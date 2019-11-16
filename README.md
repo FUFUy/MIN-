@@ -26,7 +26,7 @@
   - 银行从业
   - 期货从业
 
-`WeChat 联系 ：vicky_fengweimin`
-
+** WeChat 联系 ：vicky_fengweimin **
+![image](http://github.com/Min-monn/MIN-s/raw/master/images/Wechat.jpg)
 ```
 ## Loading...
