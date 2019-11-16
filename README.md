@@ -27,6 +27,7 @@
   - 期货从业
 
 ** WeChat 联系 ：vicky_fengweimin **
-![image](https://github.com/Min-minn/MIN-s/blob/master/Wechat.jpg)
 ```
+![image](https://github.com/Min-minn/MIN-s/blob/master/Wechat.jpg)
+
 ## Loading...
