@@ -15,7 +15,7 @@
 - 课本
 
 ## MIN的考证自习室
-```
+
 这里有题库&课程
 - 计算机
   - MS Office 一级二级
@@ -25,9 +25,9 @@
   - 基金从业
   - 银行从业
   - 期货从业
-```
+
 **WeChat 联系 ：vicky_fengweimin**
 
 ![image](https://github.com/Min-minn/MIN-s/blob/master/Wechat.jpg)
 
-## Loading...
+_Loading..._
